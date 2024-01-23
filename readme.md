@@ -14,7 +14,7 @@ CSE3501 Project - Quantum Encryption! This project focuses on implementing and e
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/CSE3501-Quantum-Encryption.git`
+1. Clone the repository: `git clone https://github.com/VarunAgarwalOfficial/CSE3501-Quantum-Encryption.git`
 2. Navigate to the project directory: `cd CSE3501-Quantum-Encryption`
 3. Run the Bob script: `python bob.py`
 4. Run the Alice script: `python alice.py`
